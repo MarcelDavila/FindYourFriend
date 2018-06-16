@@ -1,0 +1,11 @@
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\BaseDodos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\BaseDodos.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\TabelaAmigos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\TabelaAmigos.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\obj\Release\BaseDodos.csprojAssemblyReference.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\obj\Release\BaseDodos.csproj.CoreCompileInputs.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\obj\Release\BaseDodos.csproj.CopyComplete
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\obj\Release\BaseDodos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\obj\Release\BaseDodos.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\ListaAmigos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\BaseDodos\bin\Release\ListaAmigos.pdb
