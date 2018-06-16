@@ -1,0 +1,6 @@
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\bin\Release\TabelaAmigos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\bin\Release\TabelaAmigos.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\obj\Release\TabelaAmigos.csprojAssemblyReference.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\obj\Release\TabelaAmigos.csproj.CoreCompileInputs.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\obj\Release\TabelaAmigos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\TabelaAmigos\obj\Release\TabelaAmigos.pdb
