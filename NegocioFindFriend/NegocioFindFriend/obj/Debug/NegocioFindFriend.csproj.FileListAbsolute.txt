@@ -1,0 +1,9 @@
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\bin\Debug\NegocioFindFriend.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\bin\Debug\NegocioFindFriend.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\obj\Debug\NegocioFindFriend.csprojAssemblyReference.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\obj\Debug\NegocioFindFriend.csproj.CoreCompileInputs.cache
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\obj\Debug\NegocioFindFriend.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\obj\Debug\NegocioFindFriend.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\bin\Debug\TabelaAmigos.dll
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\bin\Debug\TabelaAmigos.pdb
+C:\MeusCodigos\C# - WebApi\NegocioFindFriend\NegocioFindFriend\obj\Debug\NegocioFindFriend.csproj.CopyComplete
